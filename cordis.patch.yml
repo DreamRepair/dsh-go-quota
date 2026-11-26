@@ -1,0 +1,3 @@
+- insert:
+    - id: go-quota
+      name: 'dsh-go-quota'

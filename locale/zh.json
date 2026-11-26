@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go 用量",
+    "description": "在输入框旁显示 OpenCode Go 的 5 小时、每周、每月三档用量。"
+  }
+}
